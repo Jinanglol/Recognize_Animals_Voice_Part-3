@@ -1,0 +1,47 @@
+body{
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-weight: 200;
+    background: #6cb4eb;
+}
+.header_div {
+    background: white;
+    color:darkred;
+}
+.header_div p{
+    color: forestgreen;
+    letter-spacing: 3px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Algerian;
+}
+.main_div button{
+    font-family:Blackadder ITC ;
+    font-size: large;
+    margin-top: 35px;
+    font-weight: bolder;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    color: rgb(255, 0, 0);
+    width: 100%;
+    font-size: 18px;
+    background-color: orange;
+    text-align: center;
+    font-family: cursive;
+    text-shadow: 5px 5px 5px palegoldenrod ;
+    line-height: 2;
+}
+h4{
+    font-family: Franklin Gothic Medium;
+    letter-spacing: 4px ;
+}
+h2{
+    font-family: Haettenschweiler;
+    letter-spacing: 5px;
+}
+h3{
+    font-family: Jokerman;
+    letter-spacing: 2px;
+    color: crimson;
+}
